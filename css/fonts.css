@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?8nqtqc');
+    src:    url('../fonts/icomoon.eot?8nqtqc#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?8nqtqc') format('truetype'),
+        url('../fonts/icomoon.woff?8nqtqc') format('woff'),
+        url('../fonts/icomoon.svg?8nqtqc#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-WarriosOnline-01:before {
+    content: "\e900";
+}
+.icon-WarriosOnline-02:before {
+    content: "\e901";
+}
+.icon-WarriosOnline-03:before {
+    content: "\e902";
+}
+.icon-WarriosOnline-04:before {
+    content: "\e903";
+}
+.icon-WarriosOnline-05:before {
+    content: "\e904";
+}
+.icon-WarriosOnline-06:before {
+    content: "\e905";
+}
+.icon-WarriosOnline-07:before {
+    content: "\e906";
+}
+.icon-WarriosOnline-08:before {
+    content: "\e907";
+}
+.icon-WarriosOnline-09:before {
+    content: "\e908";
+}
+.icon-WarriosOnline-10:before {
+    content: "\e909";
+}
+.icon-WarriosOnline-11:before {
+    content: "\e90a";
+}
+.icon-WarriosOnline-12:before {
+    content: "\e90b";
+}
+.icon-WarriosOnline-13:before {
+    content: "\e90c";
+}
+.icon-WarriosOnline-14:before {
+    content: "\e90d";
+}
+

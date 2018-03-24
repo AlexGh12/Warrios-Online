@@ -1,0 +1,170 @@
+span{
+	-webkit-transition: 0s ease-in-out 0s!important;
+	-moz-transition   : 0s ease-in-out 0s!important;
+	-o-transition     : 0s ease-in-out 0s!important;
+}
+
+div.bgprincipal{
+	width: 100%;
+	height: 500px;
+	position: fixed;
+	z-index: 1;
+
+	background-image: url(../img/blur1.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-attachment: fixed;
+
+	/*Flexbox*/
+	display: flex;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	
+	flex-flow: row wrap;
+	
+	justify-content: space-around;
+	align-items: center;
+}
+
+h1.title-principal-servicios{
+	width: 100%;
+	margin: 75px 0px 0px 0px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3em;
+	color: #FFF;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a.cicle-menu{
+	width: 300px;
+	height: 300px;
+
+	/*Flexbox*/
+	display: flex;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	
+	flex-flow: column wrap;
+	
+	justify-content: center;
+	align-items: center;
+}
+
+span.ico{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid #FFF;
+	display: block;
+
+	/*Flexbox*/
+	display: flex;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	
+	flex-flow: column wrap;
+	
+	justify-content: center;
+	align-items: center;
+}
+
+span.ico{
+	text-align: center;
+	font-size: 10em;
+	color: #FFF;
+	text-decoration: none;
+	margin: 0;
+}
+
+/*-----------------------------------------*/
+
+a.cicle-menuSelect{
+	width: 300px;
+	height: 300px;
+
+	/*Flexbox*/
+	display: flex;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	
+	flex-flow: column wrap;
+	
+	justify-content: center;
+	align-items: center;
+}
+
+span.icoSelect{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: #FFF;
+	display: block;
+
+	/*Flexbox*/
+	display: flex;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	
+	flex-flow: column wrap;
+	
+	justify-content: center;
+	align-items: center;
+}
+
+span.icoSelect{
+	text-align: center;
+	font-size: 10em;
+	color: #e53022;
+	text-decoration: none;
+	margin: 0;
+}
+
+/*-----------------------------------------*/
+
+h1.title-servicio{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2em;
+	color: #FFF;
+	text-decoration: none;
+	padding-top: 10px;
+	margin: 0;
+}
+
+/*-----------------------------------------------------------
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

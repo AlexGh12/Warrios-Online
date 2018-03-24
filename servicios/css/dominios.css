@@ -1,0 +1,9 @@
+
+div.box1-dom{
+	width: 100%;
+	min-height: 500px;
+
+	background-image: url(../img/bg-dominio-back.jpg);
+	background-size: 100% auto;
+	overflow: hidden;
+}

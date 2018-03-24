@@ -1,0 +1,79 @@
+@media only screen and (min-width: 1400px){
+
+	div.bgprincipal{
+		height: 850px;
+	}
+
+	div.bgprincipal2{
+		margin-top:850px;
+	}
+
+}
+
+@media only screen and (max-width: 1400px){
+
+	div.bgprincipal{
+		height: 850px;
+	}
+
+	div.bgprincipal2{
+		margin-top:850px;
+	}
+
+}
+
+@media only screen and (max-width: 1270px){
+
+	div.bgprincipal{
+		height: 800px;
+	}
+
+	div.bgprincipal2{
+		margin-top:800px;
+	}
+
+}
+
+@media only screen and (max-width: 1130px){
+
+	div.bgprincipal{
+		height: 700px;
+	}
+
+	div.bgprincipal2{
+		margin-top:700px;
+	}
+
+}
+
+@media only screen and (max-width: 1000px){
+
+	div.bgprincipal{
+		height: 600px;
+	}
+
+	div.bgprincipal2{
+		margin-top:600px;
+	}
+
+}
+
+@media only screen and (max-width: 850px){
+
+	div.bgprincipal{
+		height: 500px;
+	}
+
+	div.bgprincipal2{
+		margin-top:500px;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	div.bgprincipal{
+		background-size: auto 130%;
+	}
+
+}
